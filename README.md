@@ -3,6 +3,11 @@
 A reference project to build a Spring Boot API with Gradle
 
 
+
+## Run/Build Locally
+
+- In project root directory, run `./gradlew assemble docker dockerRun` to build jar file, then build the Docker image, and then run Docker image 
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
